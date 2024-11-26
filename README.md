@@ -1,7 +1,7 @@
 ## Hi! I'm Damitha
 
  🔭 Sharing my software engineering knowladge and learnings in tech <br>
- 🌱 Studying software engineering degree at ICBT, colombo, srilanka
+ 🌱 Studying software engineering degree at ICBT, colombo, srilanka <br>
  🔭 Currently learning about web developing 
 
 ## 🛠️ Tech Stack
